@@ -1,0 +1,14 @@
+.fa-phone, .fa-feather-pointed, .fa-up-right-from-square, .fa-folder, .fa-gear, .fa-comment { 
+    display: flex;
+    justify-content: center;
+} 
+p {
+    text-align: center;
+}
+.border {
+    border: 1px solid black;
+    width: 80%;
+    /* transform: translate(-50%, 50%); */
+    margin: 20px auto;
+    
+}
